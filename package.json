@@ -1,6 +1,6 @@
 {
   "name": "typesafe-action-creator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typesafe Action Creator utility for use in redux or react hooks with type inference and no type trickery",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
