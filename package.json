@@ -1,6 +1,6 @@
 {
   "name": "typesafe-action-creator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Typesafe Action Creator utility for use in redux or react hooks with type inference and no type trickery",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -22,7 +22,14 @@
     "type": "git",
     "url": "git+https://github.com/jarlah/typesafe-action-creator.git"
   },
-  "keywords": ["typesafe", "action", "creator", "redux", "react", "hooks"],
+  "keywords": [
+    "typesafe",
+    "action",
+    "creator",
+    "redux",
+    "react",
+    "hooks"
+  ],
   "author": "Jarl André Hübenthal",
   "license": "ISC",
   "bugs": {
