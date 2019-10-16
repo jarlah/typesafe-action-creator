@@ -1,5 +1,7 @@
 # Typesafe Action Creator
 
+[![NPM](https://nodei.co/npm/typesafe-action-creator.png)](https://nodei.co/npm/typesafe-action-creator/)
+
 This super simple library enables you to create dirt cheap and simple typesafe action creators, that uses type inference and no dark magic or type tricks.
 
 For example:
