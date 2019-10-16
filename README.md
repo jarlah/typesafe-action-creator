@@ -17,7 +17,7 @@ in addition you can omit payload type and it will create an action creator that 
 ```
 const doStuff = createAction("DO_STUFF")();
 
-const action3 = doStuff(); // compiles, because of void above
+const action3 = doStuff(); // compiles, because of no type provided above
 ```
 
 for all action creators created by this library you get a getType(): T and toString(): T method. This is especially handy in reducers. You will never have to think about those type constants again.
