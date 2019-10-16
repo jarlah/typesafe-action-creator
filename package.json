@@ -23,7 +23,7 @@
     "url": "git+https://github.com/jarlah/typesafe-action-creator.git"
   },
   "keywords": ["typesafe", "action", "creator", "redux", "react", "hooks"],
-  "author": "Jarl André Hübenthaø",
+  "author": "Jarl André Hübenthal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jarlah/typesafe-action-creator/issues"
