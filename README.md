@@ -25,7 +25,7 @@ const action3 = doStuff(); // compiles, because of no type provided above
 for all action creators created by this library you get a getType(): T and toString(): T method. This is especially handy in reducers. You will never have to think about those type constants again.
 
 ```
-switch(action) {
+switch(action.type) {
  case doStuff.getType():
    // do stuff
    break:
