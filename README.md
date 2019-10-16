@@ -1,0 +1,1 @@
+# Typesafe Action Creator
